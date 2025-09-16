@@ -1,0 +1,17 @@
+# PDF to Markdown Converter Requirements
+# 
+# This script uses system commands (pdftotext) and standard Python libraries.
+# No additional Python packages are required.
+#
+# System Requirements:
+# - Python 3.6 or higher
+# - poppler-utils (for pdftotext command)
+#
+# Installation on macOS:
+# brew install poppler
+#
+# Installation on Ubuntu/Debian:
+# sudo apt-get install poppler-utils
+#
+# Installation on CentOS/RHEL:
+# sudo yum install poppler-utils
