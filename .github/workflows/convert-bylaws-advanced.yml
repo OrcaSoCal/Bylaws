@@ -55,10 +55,15 @@ jobs:
       run: |
         python3 -c "
         import sys
-        sys.path.append('.')
+        import ast
         try:
-            exec(open('pdf_to_markdown.py').read())
+            with open('pdf_to_markdown.py', 'r') as f:
+                source = f.read()
+            ast.parse(source)
             print('✅ Conversion script syntax is valid')
+        except SyntaxError as e:
+            print(f'❌ Syntax error in conversion script: {e}')
+            sys.exit(1)
         except Exception as e:
             print(f'❌ Error in conversion script: {e}')
             sys.exit(1)
