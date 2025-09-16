@@ -1,11 +1,9 @@
-ORCA Bylaws 1-15-23.doc
-
 # ORCA Bylaws
 
 **OCEAN RACING CATAMARAN ASSOCIATION (ORCA), INCORPORATED**
 
 BYLAWS –
-*Approved by the ORCA Board of Directors (BoD) on January 10, 2023..*
+*Approved by the ORCA Board of Directors (BoD) on September 15, 2025..*
 
 ---
 
@@ -30,7 +28,7 @@ or to the owners of non-qualified boats who wish to support the association's pr
 
 sailboat, meeting the requirements of this document. Approval will be decided at the discretion of the Board. The underlying principle is safety under racing, cruising, or survival conditions at sea.
 
-ORCA Bylaws 1-15-23.doc
+ORCA Bylaws 9-16-25.doc
 
 ## 3.5 A boat and her owner shall comply with recognized principles of
 
@@ -58,7 +56,7 @@ meeting, and take office in January. There must be at least four (4) board meeti
 
 with the names of Directors voting "nay" on any matter that is Moved, Seconded and Passed. If there is general agreement; "There were no nays" is a suitable report on the matter.
 
-ORCA Bylaws 1-15-23.doc
+ORCA Bylaws 9-16-25.doc
 
 ## 5.0 CLASSIFICATION OF BOATS AND RACES
 
@@ -71,7 +69,7 @@ Coastal race, and Ocean race. These categories are noted on the ORCA race calend
 
 Conformance with the following sections does not guarantee eligibility for any specific category of ORCA race. A boat may need to demonstrate seaworthiness through a qualifying sail with one of the Directors on board, or by sailing in a minimum of three separate ORCA Day races, at least one in moderate or heavier weather conditions. It is the responsibility of the owner to arrange qualifying sails with individual Board members. The Board may, at its discretion, approve a boat of demonstrated seaworthiness, for the category of race they deem appropriate. A boat’s BoD approved highest category of race eligibility will be listed on the membership/boat roster. The BoD will inform an applicant when a rating is requested or a classification (Day, Coastal, Ocean) is changed, whether an inspection and/or qualifying
 
-ORCA Bylaws 1-15-23.doc
+ORCA Bylaws 9-16-25.doc
 
 sail will be required. The BoD may also revoke a boat’s approval for ORCA membership. 5.3.1 Capsize review Any capsize of an ORCA boat, anywhere, subjects that boat to a mandatory BoD review before being allowed to race as an ORCA boat again. The ORCA BoD will review the details of the capsize and assign responsibility by percentage in three primary areas; crew error, boat design, and unavoidable happenstance. In the event of a majority "crew error" capsize; on the first capsize the skipper will receive a warning and BoD recommendations for future capsize avoidance, a 1 year suspension from ORCA racing on the 2nd capsize, and BoD determined harsher penalties on the 3rd, up to and including a possible ORCA lifetime ban. In the event of a majority boat design responsibility, the BoD may consider rating that boat design as inappropriate for ORCA racing, or choose to label it an Extreme boat (see 5.3.2). The BoD may take other actions it deems appropriate, depending on the specific causes of a capsize. The goal in all cases is to reduce the possibility of future capsizes. 5.3.2 Extreme boats When a specific boat, or model of boat, demonstrates a higher than normal level of local capsizes, the BoD may choose to flag it as an “Extreme” boat. Extreme boats must carry either an EPIRB or a Satellite phone when participating in Coastal races. The hosting yacht club of a specific race, must approve the participation of Extreme boats.
 ## 5.4 An owner wishing to qualify a boat for eligibility for a specific class of ORCA
@@ -81,7 +79,7 @@ races should submit a request to the BoD beforehand. This request should include
 
 Equipment may be inspected at the BoD’s discretion by any BoD member, or designated inspector, at any time in the 6 hours preceding or following a race. A BoD member, or designated inspector, will identify himself and his intention to inspect, to the boat owner. Failure to allow pre-race inspection can result in immediate disqualification from the race and/or suspension by ORCA. Failure to carry any of the required gear can result in immediate disqualification and/or suspension. Allowances will be made for equipment failure while a race is underway.
 
-ORCA Bylaws 1-15-23.doc
+ORCA Bylaws 9-16-25.doc
 
 ## 5.6 The requirements in this document represent easily observed minimum
 
@@ -90,7 +88,7 @@ requirements for participation in ORCA events. No claim is made or implied that 
 
 intended to reduce or eliminate a USCG requirement. Should an ORCA requirement be less than a USCG requirement, the USCG requirements are to be followed.
 
-ORCA Bylaws 1-15-23.doc
+ORCA Bylaws 9-16-25.doc
 
 ## 6.0 RACING REQUIREMENTS- ALL BOATS, ALL RACES
 
@@ -103,7 +101,7 @@ deck, suitable door slides or other comparable enclosures must be on board, brin
 
 6.3.1 Crewmembers shall be protected from falling overboard from all areas of the boat where they can reasonably be expected to be in the normal course of their duties. These areas of the platform of the boat shall be defined as Working Deck Areas and shall be composed of solid decking or synthetic fiber webbing or netting with openings no larger than four (4) inches square. All decking or webbing/netting shall be capable of supporting a minimum of four (4) 160-pound crewmembers in close proximity. 6.3.2 The perimeter of each Working Deck Area shall be bounded by Pulpits, Lifelines or Safety nets or, alternatively, a system of Pulpits, Safety Nets and permanently mounted Jackstays to which can be clipped one or more moveable Jacklines each of which is attached to a wearable personal Harness (Jackline/Harness Assembly). 6.3.2.1 Lifelines: Lifelines shall be fabricated from stainless steel wire or from synthetic line with the equivalent strength of a 1/8-inch 7x19 coated stainless steel wire. Lifelines shall be supported by sturdily attached stanchions, 24 inches high above underlying solid decks (18 inches high on boats less than 31 feet LOA) no more than 7 feet apart (except in the case of aka-to-main-hull connections on a trimaran, the spans of which can exceed 7 feet). An intermediate lifeline is desired but not required. Lifeline stanchions shall be capable of withstanding a sideways pull of 200 lbs at the top of the stanchion with lifelines in place. Instead of a stanchioned Lifeline across the forward beam on a catamaran, a headstay bridle will suffice. A tiller cross bar is acceptable as a rear lifeline if it will withstand a 200 lb. lateral pull.
 
-ORCA Bylaws 1-15-23.doc
+ORCA Bylaws 9-16-25.doc
 
 Lifelines may extend downward to deck-level attachments at the bow and/or stern provided Pulpit and Safety Net rules in those areas are also met. 6.3.2.2 Pulpits: Protection for crewmembers by a Pulpit at minimum Lifeline height shall be provided at the bow area on the main hull of a trimaran. 6.3.2.3 Safety Nets: Working Deck Areas not protected by Lifelines (e. g. , areas forward of the forward aka and aft of the aft aka on a trimaran) shall be protected by Safety Nets. These shall be fabricated of line capable of supporting a falling 200pound person and have no openings larger than 6-inches square. Safety Nets shall extend horizontally a minimum of three (3) feet from adjacent Working Deck Areas they protect. 6.3.2.4 Jackstays, Jacklines, and Harnesses: If the Lifeline option is not employed, each crewmember shall have a readily available Harness Assembly aboard and be able to share in the use of a permanently affixed Jackstay(s) system appropriate to the platform and on-deck structures of the boat. Pulpit and Safety Net requirements outlined above will also be in force. 6.3.3 Bowsprit Tack-point Controls: On boats with Bowsprits, control of the movable tack points of roller-furling headsails or gennakers must take place on an adjacent protected Working Deck Area: crewmembers shall not be required to work any tack device that is more than one arm's length from a protected Working Deck Area.
 ## 6.4 Mainsail: Must be reefable.
@@ -119,18 +117,14 @@ by standing rigging.
 
 capacity to power navigation lights or running lights continuously and cabin lights under normal use for one twelve (12) hour night without recharging required.
 
-ORCA Bylaws 1-15-23.doc
+ORCA Bylaws 9-16-25.doc
 
 ## 6.9 Rotating Masts: Provision shall be made that the mast will stay in place
 
 under adverse sea conditions.
 ## 6.10 Head: A sheltered head is required- a bucket is acceptable.
 
-## 6.11 Auxiliary propulsion: Sufficient power and fuel for the boat to achieve a
-
-speed equal to the square root of her waterline, for a distance of 15 nautical miles in flat water without a headwind.
-## 6.12 Fuel Storage: Fuel for a minimum of four (4) hours of cruising required.
-
+6.11 {unused} 6.12 {unused}
 ## 6.13 Ground Tackle: Minimum of one functional anchor required of appropriate
 
 size and length for boat size. Minimum 15’ chain and 100’ line.
@@ -155,12 +149,12 @@ quarts per crewman must be stored aboard in sealed containers. One-half this sup
 ## 6.17 One Coast Guard approved (for adult) type IV flotation device, located
 
 readily available to the helmsman.
-
-ORCA Bylaws 1-15-23.doc
-
 ## 6.18 A functioning VHF marine radio is required with Channels 6, 12, 16, 22A,
 
 68, 69, 71 and 78A. This is in addition to the requirement of 6.15.
+
+ORCA Bylaws 9-16-25.doc
+
 ## 6.19 Adequate First Aid Kit and First Aid Manual.
 
 ## 6.20 One functioning whistle for each crewmember.
@@ -192,18 +186,21 @@ the requirements of a specific race.
 required by a sponsoring organization’s race rules shall be carried during any given race.
 ## 6.33 Meet all appropriate US Coast Guard requirements.
 
-ORCA Bylaws 1-15-23.doc
+ORCA Bylaws 9-16-25.doc
 
 ## 7.0 ADDITIONAL REQUIREMENTS FOR COASTAL RACES
 
------------------------7.11 Auxiliary propulsion: Sufficient power and fuel for the boat to achieve a
-speed equal to the square root of her waterline, for a distance of 30 nautical miles in flat water without a headwind. (Supersedes 6.11)
+*items align with section 6 paragraph of same number*
+
+## 7.11 Auxiliary propulsion: Sufficient power and fuel for the boat to achieve a
+
+speed equal to the square root of her waterline, for 4 hours in flat water without a headwind.
 ## 7.13 Two (2) functioning anchors of a size commensurate with the size of the
 
 yacht with at least 15' of chain and 100' of line each. Anchor manufacturers data shall be required to establish minimum main anchor, chain, and line size in case of question. (Supersedes 6.13)
 ## 7.14 Add 1 to the crew requirements of 6.14 (modifies 6.14)
 
-The one exception to this minimum number of crew rule is when the race organizer specifies the number of crew, as in the Crew-of-2 Around Catalina race. 7.15 {unused}
+The one exception to this minimum number of crew rule is when the race organizer specifies the number of crew, as in the Crew-of-2 Around Catalina race.
 ## 7.16 Water Storage: Water or other potables in the minimum amount of two
 
 quarts per crewman per day for three days, must be stored aboard in sealed containers. One-half this supply must be drinking water and must be readily available to the crew. (Supersedes 6.16)
@@ -211,7 +208,7 @@ quarts per crewman per day for three days, must be stored aboard in sealed conta
 
 below. A "MOM" is an acceptable substitute. (In addition to 6.17)
 
-ORCA Bylaws 1-15-23.doc
+ORCA Bylaws 9-16-25.doc
 
 ## 7.18 A functioning 25W VHF marine radio with external antennae is required with
 
@@ -236,7 +233,7 @@ reasonable short time.
 or cruise must be available.
 ## 7.40 One lead line or fathometer.
 
-ORCA Bylaws 1-15-23.doc
+ORCA Bylaws 9-16-25.doc
 
 ## 8.0 ADDITIONAL REQUIREMENTS FOR OCEAN RACES
 
@@ -248,7 +245,7 @@ rudders, and rudder housings. (Supersedes 6.1)
 
 ## 8.43 SSB (Single Sideband Radio) or Satellite phone
 
-ORCA Bylaws 1-15-23.doc
+ORCA Bylaws 9-16-25.doc
 
 ## 9.0 HANDICAPPING AND CONFIGURATION CONTROL
 
@@ -264,6 +261,6 @@ Which is called a "Time-on-Distance" system. Experience has shown that the forme
 
 The continued success of both ratings introduced in 9.1 is dependent on maintaining Configuration Control over the actual configurations of all boats as opposed to their listed configurations. At present, ORCA uses the honor system to accomplish this: it is the responsibility of the owner to ensure that the listed and actual configurations are the same and to notify, in writing, the BoD of any alterations at least 14 days prior to any race (notification to be received at least 14 days prior). The BoD will acknowledge by email, fax, or US mail. The rating committee will decide if the alteration will result in a rating change, and notify the owner and the hosting yacht club in time for the race. Temporarily altering the basic configuration of a boat to suit the conditions of specific races is not
 
-ORCA Bylaws 1-15-23.doc
+ORCA Bylaws 9-16-25.doc
 
 permitted. This includes adding/subtracting crew members to gain advantage. Configuration changes, such as a change in sail area, will result in a recalculated rating based on a boat’s current achieved rating. A skipper (the ORCA member who will be the “skipper of record”) change is considered a configuration change, and must be reported in the same manner as other alterations. 9.2.1 CONTROLLED PARAMETERS Measurable boat parameters (refer to the ORCA Measurement form for detailed parameters and measurement instructions) that ORCA keeps under configuration control for ratings purposes include the following: Length overall (LOA) Waterline length (LWL) Weight loaded for sailing, without crew and perishables Vertical height and foot of Foretriangle Height of the highest spin block if higher than top of Foretriangle Widest beam Length of ama (for trimarans) Area of sails Various mast parameters Number of crew (this “Rated Number of Crew” will be listed on the member/boat roster) APPENDIX A: Coast Guard Requirements Inland and International Navigation Rules are available on the following website: http://www. navcen. uscg. gov/mwv/navrules/rotr_online. htm
